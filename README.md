@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankul Dwivedi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate BE-CSE Student from Pune India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11sankul&label=Profile%20views&color=0e75b6&style=flat" alt="11sankul" /> </p>
 
